@@ -1,0 +1,41 @@
+ProductID,ProductName,Category,Price
+1,Smartphone X,Phone,800
+2,Laptop Y,Tablet,1200
+3,Headphones A,Headphones,150
+4,Smartwatch B,Smartwatch,250
+5,TV C,TV,1000
+6,Speaker D,Speaker,300
+7,Camera E,Camera,600
+8,Tablet F,Tablet,700
+9,Router G,Router,80
+10,Keyboard H,Keyboard,50
+11,Mouse I,Mouse,40
+12,Printer J,Printer,200
+13,External Hard Drive K,External Hard Drive,120
+14,Monitor L,Monitor,300
+15,Phone Charger M,Phone Charger,20
+16,USB Flash Drive N,USB Flash Drive,15
+17,Wireless Mouse O,Wireless Mouse,25
+18,Bluetooth Speaker P,Bluetooth Speaker,70
+19,Earbuds Q,Earbuds,80
+20,Power Bank R,Power Bank,50
+21,Portable Speaker S,Portable Speaker,90
+22,Webcam T,Webcam,60
+23,Wireless Headphones U,Wireless Headphones,180
+24,Smart Plug V,Smart Plug,30
+25,Portable Charger W,Portable Charger,40
+26,Action Camera X,Action Camera,150
+27,Fitness Tracker Y,Fitness Tracker,100
+28,VR Headset Z,VR Headset,200
+29,Gaming Mouse A,Gaming Mouse,80
+30,Gaming Keyboard B,Gaming Keyboard,100
+31,Gaming Headset C,Gaming Headset,120
+32,Gaming Chair D,Gaming Chair,250
+33,Graphics Card E,Graphics Card,500
+34,Computer Monitor F,Computer Monitor,400
+35,Wireless Keyboard G,Wireless Keyboard,70
+36,Wireless Earbuds H,Wireless Earbuds,120
+37,Bluetooth Earphones I,Bluetooth Earphones,90
+38,Portable SSD J,Portable SSD,150
+39,Wireless Charging Pad K,Wireless Charging Pad,60
+40,USB-C Hub L,USB-C Hub,80
